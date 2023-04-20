@@ -3,7 +3,7 @@
 С конца 2022 года занимаюсь backend-разработкой на Python.
 
 #### Основные инструменты
-Python - Django - Django REST Framework - Postman - HTML - Bootstrap 5 - pyTelegramBotAPI - FastAPI - SQLAlchemy
-SQL - SQLite - PostgreSQL
-Gunicorn - Nginx -  Docker - Linux - Yandex.Cloud
-VS Code - Git - Github
+Python - Django - Django REST Framework - Postman - HTML - Bootstrap 5 - pyTelegramBotAPI - FastAPI - SQLAlchemy <br>
+SQL - SQLite - PostgreSQL <br>
+Gunicorn - Nginx -  Docker - Linux - Yandex.Cloud <br>
+VS Code - Git - Github <br>
