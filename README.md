@@ -7,6 +7,3 @@ Python - Django - Django REST Framework - Postman - HTML - Bootstrap 5 - pyTeleg
 SQL - SQLite - PostgreSQL <br>
 Gunicorn - Nginx -  Docker - Linux - Yandex.Cloud <br>
 VS Code - Git - Github <br>
-
-#### Сейчас изучаю
-FastAPI - SQLAlchemy
