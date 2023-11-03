@@ -7,6 +7,7 @@ SQL - SQLite - PostgreSQL - SQlAlchemy - Redis <br>
 Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - OpenAPI <br>
 
 #### Крупные проекты с открытым доступом:
+- [Career-tracker](https://github.com/yandex-hackathon-career-track/backend) - Сервис для работодателей-партнеров Яндекс-Практикума (Яндекс-Хакатон - 3 место)
 - [ShareWithMe](https://github.com/services-psychologists-psychotherapists/backend) - Платформа для бронирования услуг психологов.
 - [Cranio-WW](https://github.com/Cranio-worldwide/backend) - Сайт для поиска мануального терапевта рядом.
 - [V-MESTE](https://github.com/ratarov/V_MESTE_play) - Сайт на Django-templates для поиска компании для настольных игр и ведения их статистики с ТГ-ботом.
