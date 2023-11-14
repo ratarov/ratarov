@@ -14,3 +14,6 @@ Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - 
 - [FoodGram](https://github.com/ratarov/foodgram-project-react) - Веб-сервис для публикации рецептов.
 - [YamDB](https://github.com/ratarov/yamdb_final) - API для сервиса по написанию рецензий на фильмы и музыку.
 - [Ruslanbers](https://github.com/ratarov/ruslanbers) - Сайт для ведения блогов на Django-templates.
+
+![Git stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratarov&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ratarov?theme=dark&font=Roboto)
