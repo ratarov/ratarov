@@ -6,7 +6,7 @@ Since 2022, I've been involved in Python web development, and that's my new pass
 #### Languages & tools:
 Python - Django - Django REST Framework - FastAPI - HTML - HTMX - Bootstrap 5 - pyTelegramBotAPI <br>
 SQL - SQLite - PostgreSQL - SQlAlchemy - Redis <br>
-Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - OpenAPI
+Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - OpenAPI - Sentry
 
 #### Some of my open projects:
 - [Career-tracker](https://github.com/yandex-hackathon-career-track/backend) - Service for partners (employers) of Y.Practicum (Yandex Hackathon - 3rd place).
