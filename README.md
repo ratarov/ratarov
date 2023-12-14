@@ -9,6 +9,7 @@ SQL - SQLite - PostgreSQL - SQlAlchemy - Redis <br>
 Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - OpenAPI - Sentry
 
 #### Some of my open projects:
+- [Prosept-match](https://github.com/hackathone-prosept-team2/backend_django) - ML-service matching customer's goods with dealers' articles (Prosept Hackathon).
 - [Career-tracker](https://github.com/yandex-hackathon-career-track/backend) - Service for partners (employers) of Y.Practicum (Yandex Hackathon - 3rd place).
 - [ShareWithMe](https://github.com/services-psychologists-psychotherapists/backend) - Platform for booking of psychologists' services.
 - [Cranio-WW](https://github.com/Cranio-worldwide/backend) - Service for searching the cranio sacral therapists nearby.
