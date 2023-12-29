@@ -10,6 +10,7 @@ Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - 
 
 #### Some of my open projects:
 - [DevRel Hack2.0](https://github.com/DevRel-hack/backend) - Concept of CRM for DevRel specialists - CodenRock Hackathon (finalist, winner of CustDev special award).
+- [Eatpoint](https://github.com/finding-and-booking-tables-restaurants/eatpoint-backend) - Web-service for booking of table in public catering places.
 - [Prosept-match](https://github.com/hackathone-prosept-team2/backend_django) - ML-service matching customer's goods with dealers' articles (Prosept Hackathon).
 - [Career-tracker](https://github.com/yandex-hackathon-career-track/backend) - Service for partners (employers) of Y.Practicum (Yandex Hackathon - 3rd place).
 - [ShareWithMe](https://github.com/services-psychologists-psychotherapists/backend) - Platform for booking of psychologists' services.
