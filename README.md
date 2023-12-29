@@ -16,9 +16,6 @@ Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - 
 - [ShareWithMe](https://github.com/services-psychologists-psychotherapists/backend) - Platform for booking of psychologists' services.
 - [Cranio-WW](https://github.com/Cranio-worldwide/backend) - Service for searching the cranio sacral therapists nearby.
 - [V-MESTE](https://github.com/ratarov/V_MESTE_play) - Django-templates website for searching the boardgames buddies nearby and storing statistics of games.
-- [FoodGram](https://github.com/ratarov/foodgram-project-react) - Web-service for sharing food recipes.
-- [YamDB](https://github.com/ratarov/yamdb_final) - API for sharing reviews for different works of art.
-- [Ruslanbers](https://github.com/ratarov/ruslanbers) - Site for blogs on Django-templates.
 
 #### Also training my algo skills:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ratarov?font=Roboto)
