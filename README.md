@@ -1,12 +1,12 @@
 ### Hello World! I'm Ruslan A. 👋 Python developer
-I have been working in Purchasing for the last 10+ years. My current position is Head of Purchasing dept in Ford Motor Company (Russia). This industry gave me great experience in problem-solving, an understanding of how business works & its demands and other valuable soft skills, but...
+I worked in Purchasing from 2010 to 2022, with my last position being Head of the Purchasing Department at Ford Motor Company (Russia). This experience provided me with valuable skills in problem-solving, a deep understanding of how businesses operate and their demands, as well as other important soft skills, but...
 
-Since 2022, I've been involved in Python web development, and that's my new passion, which drives me and gives me great professional satisfaction.
+Since 2022, I have been pursuing my passion for Python web development, which brings me great professional satisfaction and drives me forward in my career. 
 
-#### Languages & tools:
-Python - Django - Django REST Framework - FastAPI - Flask - HTML - HTMX - aiogram - pyTelegramBotAPI<br>
-SQL - SQLite - PostgreSQL - SQlAlchemy - Redis - RabbitMQ - Celery<br>
-Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - OpenAPI - Sentry
+#### Main languages & tools:
+Python - Django - DRF - FastAPI - Flask - HTML - HTMX - aiogram - pyTelegramBotAPI<br>
+SQL - SQLite - PostgreSQL - SQlAlchemy - Redis - RabbitMQ - Celery - Channels<br>
+Gunicorn - Nginx - Postman - Docker - Linux - VS Code - Git - Github - Pytest - OpenAPI - Sentry - Rollbar
 
 #### Some of my open projects:
 - [DevRel Hack2.0](https://github.com/DevRel-hack/backend) - Concept of CRM for DevRel specialists - CodenRock Hackathon (finalist, winner of CustDev special award)
